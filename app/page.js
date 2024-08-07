@@ -22,6 +22,7 @@ export default function Home() {
     setInventory[inventoryList]
   }
 
+  <Box> </Box>
   
   return (
     <Box>
